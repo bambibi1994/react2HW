@@ -1,0 +1,6 @@
+When using React, it is recomment to add only one function to a component to avoid confusion.
+Name of the component need to be capitalize or ReactDOM will ignore it.
+You can use style as an attribute inside return of a component.
+Function inside a component can be reusable to reduce the size and process time for the program.
+You can insert multiple small components into a big component.
+You should seperate function that process code away from function that display the program.
